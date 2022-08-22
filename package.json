@@ -154,7 +154,7 @@
     "@types/serve-favicon": "^2.5.3",
     "@types/sharp": "^0.30.5",
     "@types/uuid": "^8.3.4",
-    "@typescript-eslint/eslint-plugin": "~5.24.0",
+    "@typescript-eslint/eslint-plugin": "~5.34.0",
     "@typescript-eslint/parser": "^5.31.0",
     "autoprefixer": "10.4.8",
     "babel-jest": "^27.5.1",
